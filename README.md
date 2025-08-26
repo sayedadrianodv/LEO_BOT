@@ -43,3 +43,21 @@
 - 🦀 **Rust ~75%** — high-throughput data path & safety checks  
 - 🐍 **Python ~25%** — orchestration, Telegram I/O, rendering
 
+
+
+> Percentages reflect the intended codebase mix.
+
+---
+
+## Notes
+- No financial advice. Crypto markets are highly volatile.  
+- Rug-avoidance is best-effort. Always do your own research.  
+- Secrets/keys are kept out of public repositories by design.
+
+---
+
+## Contact
+developed by : https://t.me/Sayedadriano
+Called by : https://t.me/Leo_Bot1
+owned by : https://t.me/Glitch_Trenches
+
