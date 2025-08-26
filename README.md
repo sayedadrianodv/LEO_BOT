@@ -61,3 +61,26 @@ developed by : https://t.me/Sayedadriano
 Called by : https://t.me/Leo_Bot1
 owned by : https://t.me/Glitch_Trenches
 
+
+
+<!-- HERO / الشعار -->
+<p align="center">
+  <img src="photo/1.jpg" alt="LEO BOT — Logo" width="220">
+</p>
+
+<!-- جاليري بطاقات LEO BOT (4×2) -->
+<table>
+  <tr>
+    <td><a href="photo/2.jpg"><img src="photo/2.jpg" alt="LEO BOT Card 2" width="300"></a></td>
+    <td><a href="photo/3.jpg"><img src="photo/3.jpg" alt="LEO BOT Card 3" width="300"></a></td>
+    <td><a href="photo/4.jpg"><img src="photo/4.jpg" alt="LEO BOT Card 4" width="300"></a></td>
+    <td><a href="photo/5.jpg"><img src="photo/5.jpg" alt="LEO BOT Card 5" width="300"></a></td>
+  </tr>
+  <tr>
+    <td><a href="photo/6.jpg"><img src="photo/6.jpg" alt="LEO BOT Card 6" width="300"></a></td>
+    <td><a href="photo/7.jpg"><img src="photo/7.jpg" alt="LEO BOT Card 7" width="300"></a></td>
+    <td><a href="photo/8.jpg"><img src="photo/8.jpg" alt="LEO BOT Card 8" width="300"></a></td>
+    <td><a href="photo/9.jpg"><img src="photo/9.jpg" alt="LEO BOT Card 9" width="300"></a></td>
+  </tr>
+</table>
+
