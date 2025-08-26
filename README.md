@@ -23,11 +23,11 @@
 ---
 
 ## Filters & Rules
-- **MCAP**: min/max  
-- **Volume**: min/max  
-- **Holders**: min/max  
-- **Pair Age**: textual (e.g., `10m`, `3h`) and/or minute bounds  
-- **Top-10% concentration**: min/max  
+- **MCAP**:  
+- **Volume**: 
+- **Holders**: 
+- **Pair Age**:  
+- **Top-10% concentration**:   
 - Unknown or out-of-range Top-10% → **rejected**.  
 - Internal safety checks aim to **avoid rugs** (best-effort, not a guarantee).
 
